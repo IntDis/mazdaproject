@@ -72,3 +72,11 @@ body{
     text-align: center;
 
 }
+
+.navigation{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
