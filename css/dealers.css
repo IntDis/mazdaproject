@@ -22,7 +22,7 @@ body{
     height: 100vh;
     position: absolute;
     z-index: 5;
-    background: rgba(0, 0, 0, 0.3);
+    /*background: rgba(0, 0, 0, 0.3);*/
     left: 0;
     right: 0;
 }
@@ -67,7 +67,7 @@ body{
 
 
 
-.header-text{
+.container-text{
     margin-top: 150px;
     text-align: center;
 
@@ -77,6 +77,8 @@ body{
     margin-top: 200px;
     display: flex;
     justify-content: center;
-    position: relative;
+    position: absolute;
+    left: 0;
+    right: 0;
 }
 

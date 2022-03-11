@@ -71,12 +71,14 @@ body{
     justify-content: center;
 }
 
-.social .a{
+.social .icon{
     display: flex;
-    justify-content: left;
     bottom: 20px;
-}
+    position: relative;
+    margin-inline: 25px;
+    justify-content: space-between;
 
+}
 
 .header-text{
     margin-top: 150px;

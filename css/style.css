@@ -105,6 +105,7 @@ body{
     font-size: 0;
     cursor: pointer;
     outline: none;
+    border: 1px solid #fff;
 }
 
 .slider .slick-dots .slick-active button{
@@ -121,7 +122,6 @@ body{
     position: relative;
     z-index: 6;
     max-width: 1200px;
-
 }
 
 .statistics{
@@ -255,6 +255,7 @@ body{
 
 .footer-copy ul{
     list-style: none;
+    margin-left: -40px;
 }
 
 .footer-copy li{
